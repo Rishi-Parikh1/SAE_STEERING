@@ -1,6 +1,6 @@
 # Steering Non-Positional Sparse Autoencoder Features in a Language Model
 
-Research project completed through the Algoverse Artificial Intelligence Research Program. The notebooks in this repository contain the experiments.
+Research project completed independently. The notebooks in this repository contain the experiments.
 
 ## Research Question
 Can modifying the activations of selected sparse autoencoder (SAE) non-positional features systematically change the behavior of a large language model?
